@@ -1,0 +1,1136 @@
+[
+  {
+    "id": "pasar_por_el_aro",
+    "nombre": "Pasar por el Aro",
+    "descripcion_corta": "El equipo debe pasar un aro por todo el círculo sin soltarse de las manos.",
+    "categoria_principal": "Cooperación",
+    "tags": [
+      "cooperacion",
+      "humor",
+      "movimiento"
+    ],
+    "energia": "media",
+    "actividad_fisica": 2,
+    "dificultad_gm": "facil",
+    "jugadores_min": 6,
+    "jugadores_max": 30,
+    "duracion_minutos": 3,
+    "espacio": "medio",
+    "ruido": "medio",
+    "montaje": "rapido",
+    "modo": "cooperativo",
+    "edad": "mixto",
+    "material": [
+      "1 hula hoop por equipo"
+    ],
+    "preparacion": [
+      "Formar un círculo con todos los jugadores cogidos de las manos.",
+      "Colocar el aro entre dos jugadores."
+    ],
+    "como_se_juega": [
+      "El equipo debe hacer pasar el aro por todos los jugadores del círculo.",
+      "Pueden usar brazos, piernas y movimientos corporales.",
+      "No pueden soltarse de las manos en ningún momento."
+    ],
+    "puntuacion": "Gana el equipo que complete el recorrido en menos tiempo. Recomendado: 100 puntos al ganador.",
+    "variantes": [
+      "Dos vueltas consecutivas.",
+      "Modo ojos cerrados: solo una persona puede dar indicaciones."
+    ],
+    "frase_gm": "Parece fácil... hasta que os quedéis atascados dentro del aro como un pulpo en una lavadora.",
+    "recomendados": [
+      "telefono_roto",
+      "cruzar_el_rio",
+      "a_todo_vaso"
+    ]
+  },
+  {
+    "id": "escape_room_descanso",
+    "nombre": "Escape Room del Descanso",
+    "descripcion_corta": "Mini escape room exprés donde los equipos resuelven pruebas para abrir una caja con candado.",
+    "categoria_principal": "Ingenio",
+    "tags": [
+      "ingenio",
+      "cooperacion",
+      "puzzle"
+    ],
+    "energia": "baja",
+    "actividad_fisica": 1,
+    "dificultad_gm": "alta",
+    "jugadores_min": 4,
+    "jugadores_max": 30,
+    "duracion_minutos": 5,
+    "espacio": "pequeno",
+    "ruido": "bajo",
+    "montaje": "largo",
+    "modo": "cooperativo",
+    "edad": "mixto",
+    "material": [
+      "Caja con candado",
+      "Hojas de pistas",
+      "Bolígrafos",
+      "Emoticonos o elementos escondidos por la sala"
+    ],
+    "preparacion": [
+      "Preparar la caja cerrada con el código correcto.",
+      "Colocar las pruebas en hojas separadas.",
+      "Esconder emoticonos o pistas por la sala si se usa esa variante."
+    ],
+    "como_se_juega": [
+      "Cada equipo recibe una carpeta o conjunto de pistas.",
+      "Deben resolver varias pruebas para obtener partes de la combinación.",
+      "Pruebas sugeridas: Guerra de Barcos, Laberinto Rojo, Sopa de Letras y búsqueda de emoticonos.",
+      "Cuando crean tener el código, intentan abrir la caja."
+    ],
+    "puntuacion": "Gana el primer equipo que abra la caja. Recomendado: 100 puntos.",
+    "variantes": [
+      "Una única caja central para todos.",
+      "Una caja por equipo con códigos diferentes.",
+      "Pistas extra a cambio de perder puntos."
+    ],
+    "frase_gm": "Os he dado todas las pistas necesarias. Lo que hagáis con ellas ya es vuestro problema.",
+    "recomendados": [
+      "apalabrados",
+      "preguntias",
+      "el_peso_justo_objetos"
+    ]
+  },
+  {
+    "id": "telefono_roto",
+    "nombre": "El Teléfono Roto",
+    "descripcion_corta": "Una palabra o frase viaja por una fila usando solo mímica hasta llegar al primer jugador.",
+    "categoria_principal": "Humor",
+    "tags": [
+      "humor",
+      "cooperacion",
+      "mimica"
+    ],
+    "energia": "media",
+    "actividad_fisica": 1,
+    "dificultad_gm": "facil",
+    "jugadores_min": 4,
+    "jugadores_max": 30,
+    "duracion_minutos": 2,
+    "espacio": "pequeno",
+    "ruido": "medio",
+    "montaje": "rapido",
+    "modo": "cooperativo",
+    "edad": "mixto",
+    "material": [
+      "Tarjetas de palabras o frases",
+      "Imaginación del GM"
+    ],
+    "preparacion": [
+      "Preparar palabras o frases adaptadas al grupo.",
+      "Colocar a cada equipo en fila."
+    ],
+    "como_se_juega": [
+      "El último jugador recibe una palabra o frase.",
+      "Hace girar al jugador de delante y se la transmite con mímica.",
+      "La cadena continúa hasta llegar al primer jugador.",
+      "El primer jugador dice la respuesta en voz alta."
+    ],
+    "puntuacion": "Acierto: 50 puntos. Error: 0 puntos. También puede usarse como ronda bonus.",
+    "variantes": [
+      "Frases absurdas para grupos fiesteros.",
+      "Solo películas, canciones o personajes.",
+      "Modo penalización: si falla, resta puntos."
+    ],
+    "frase_gm": "La palabra inicial era 'perro'. Vamos a descubrir por qué acaba siendo 'helicóptero nuclear'.",
+    "recomendados": [
+      "pasar_por_el_aro",
+      "a_todo_vaso",
+      "gallinita_ciega"
+    ]
+  },
+  {
+    "id": "splaton",
+    "nombre": "Splaton",
+    "descripcion_corta": "Batalla de colores donde los equipos colocan sus piezas y retiran las del rival.",
+    "categoria_principal": "Competición",
+    "tags": [
+      "competicion",
+      "sabotaje",
+      "caos",
+      "movimiento"
+    ],
+    "energia": "alta",
+    "actividad_fisica": 3,
+    "dificultad_gm": "media",
+    "jugadores_min": 6,
+    "jugadores_max": 30,
+    "duracion_minutos": 3,
+    "espacio": "grande",
+    "ruido": "alto",
+    "montaje": "rapido",
+    "modo": "competitivo",
+    "edad": "mixto",
+    "material": [
+      "Conos o aros de colores",
+      "Zona de juego delimitada"
+    ],
+    "preparacion": [
+      "Delimitar la zona de juego.",
+      "Colocar las piezas de todos los equipos en el centro.",
+      "Marcar la salida de cada equipo a la misma distancia."
+    ],
+    "como_se_juega": [
+      "Los jugadores salen de uno en uno.",
+      "Cada jugador puede colocar una pieza de su color en la zona de juego.",
+      "También puede retirar una pieza rival.",
+      "Las piezas retiradas se dejan junto al punto de salida para poder reutilizarlas."
+    ],
+    "puntuacion": "Al acabar el tiempo, gana el equipo con más piezas de su color dentro de la zona.",
+    "variantes": [
+      "Solo se puede colocar, no retirar.",
+      "Ronda con doble puntuación en los últimos 30 segundos.",
+      "Modo caos: todos los equipos juegan a la vez."
+    ],
+    "frase_gm": "No importa ganar. Lo importante es que el rival pierda.",
+    "recomendados": [
+      "ten_pelotas",
+      "mis_conos",
+      "music_royale"
+    ]
+  },
+  {
+    "id": "cruzar_el_rio",
+    "nombre": "Cruzar el Río",
+    "descripcion_corta": "El equipo debe cruzar la sala pisando solo dentro de los aros.",
+    "categoria_principal": "Cooperación",
+    "tags": [
+      "cooperacion",
+      "movimiento",
+      "ingenio"
+    ],
+    "energia": "media",
+    "actividad_fisica": 2,
+    "dificultad_gm": "facil",
+    "jugadores_min": 4,
+    "jugadores_max": 20,
+    "duracion_minutos": 5,
+    "espacio": "medio",
+    "ruido": "medio",
+    "montaje": "rapido",
+    "modo": "cooperativo",
+    "edad": "mixto",
+    "material": [
+      "Aros"
+    ],
+    "preparacion": [
+      "Marcar una salida y una meta.",
+      "Entregar varios aros a cada equipo."
+    ],
+    "como_se_juega": [
+      "El equipo debe avanzar de un lado a otro usando los aros como islas.",
+      "Los pies siempre deben estar dentro de un aro.",
+      "Un aro con gente dentro no se puede mover.",
+      "El equipo debe dejar un aro libre, recogerlo y pasarlo hacia delante para avanzar."
+    ],
+    "puntuacion": "Gana el primer equipo en cruzar. El GM puede restar puntos o hacer volver atrás si detecta pies fuera.",
+    "variantes": [
+      "Menos aros para aumentar dificultad.",
+      "Todos deben llegar cogidos.",
+      "Penalización de 10 segundos por tocar el suelo."
+    ],
+    "frase_gm": "El suelo es lava, el río es tóxico y vuestra coordinación... bueno, ya veremos.",
+    "recomendados": [
+      "pasar_por_el_aro",
+      "me_cambio_de_aro",
+      "music_royale"
+    ]
+  },
+  {
+    "id": "tres_en_raya_sacos",
+    "nombre": "Tres en Raya - Lanzamiento",
+    "descripcion_corta": "Los equipos lanzan sacos a un tablero de aros para formar tres en raya.",
+    "categoria_principal": "Precisión",
+    "tags": [
+      "precision",
+      "competicion",
+      "estrategia"
+    ],
+    "energia": "media",
+    "actividad_fisica": 2,
+    "dificultad_gm": "facil",
+    "jugadores_min": 4,
+    "jugadores_max": 20,
+    "duracion_minutos": 4,
+    "espacio": "medio",
+    "ruido": "medio",
+    "montaje": "medio",
+    "modo": "competitivo",
+    "edad": "mixto",
+    "material": [
+      "9 aros",
+      "3 sacos por equipo"
+    ],
+    "preparacion": [
+      "Colocar 9 aros formando un tablero de 3 en raya.",
+      "Marcar el punto de lanzamiento.",
+      "Dar 3 sacos a cada equipo."
+    ],
+    "como_se_juega": [
+      "Los jugadores lanzan sacos por turnos desde el punto marcado.",
+      "Un saco dentro de un aro ocupa esa casilla.",
+      "El equipo decide si deja el saco o lo retira.",
+      "Si ya tiene 3 sacos colocados y no ha hecho tres en raya, debe retirar uno antes de volver a lanzar.",
+      "En multiequipo, si dos sacos coinciden en el mismo aro, ambos se eliminan."
+    ],
+    "puntuacion": "Gana quien consiga tres en raya. Recomendado: mejor de 3 rondas.",
+    "variantes": [
+      "Distancia de lanzamiento más larga.",
+      "Casilla central bloqueada durante la primera ronda.",
+      "Doble puntuación si se gana en diagonal."
+    ],
+    "frase_gm": "Es tres en raya, sí. Pero con presión, puntería y gente gritándote al oído.",
+    "recomendados": [
+      "basquet_vaso",
+      "a_cazar",
+      "apunta_la_pizza"
+    ]
+  },
+  {
+    "id": "tres_en_raya_relevos",
+    "nombre": "Tres en Raya - Relevos",
+    "descripcion_corta": "Versión física del tres en raya donde los jugadores corren para colocar y mover petos.",
+    "categoria_principal": "Competición",
+    "tags": [
+      "competicion",
+      "movimiento",
+      "cooperacion",
+      "estrategia"
+    ],
+    "energia": "alta",
+    "actividad_fisica": 3,
+    "dificultad_gm": "facil",
+    "jugadores_min": 4,
+    "jugadores_max": 20,
+    "duracion_minutos": 4,
+    "espacio": "medio",
+    "ruido": "alto",
+    "montaje": "medio",
+    "modo": "competitivo",
+    "edad": "mixto",
+    "material": [
+      "9 aros",
+      "3 petos por equipo"
+    ],
+    "preparacion": [
+      "Montar 9 aros como tablero de 3 en raya.",
+      "Marcar una línea de salida.",
+      "Dar 3 petos a cada equipo."
+    ],
+    "como_se_juega": [
+      "Los jugadores salen por relevos hacia el tablero.",
+      "Cada jugador coloca un peto dentro de un aro.",
+      "Cuando el equipo ya tiene 3 petos en juego, los siguientes relevos pueden mover petos para formar o bloquear tres en raya.",
+      "Solo puede salir un jugador por equipo cada vez."
+    ],
+    "puntuacion": "Gana quien consiga tres en raya. Recomendado: mejor de 3 rondas.",
+    "variantes": [
+      "Obligar a chocar la mano antes del siguiente relevo.",
+      "Ronda silenciosa: no pueden hablar.",
+      "Ronda turbo: 60 segundos máximo."
+    ],
+    "frase_gm": "Esto es ajedrez, pero con menos dignidad y más cardio.",
+    "recomendados": [
+      "splaton",
+      "mis_conos",
+      "cruzar_el_rio"
+    ]
+  },
+  {
+    "id": "a_todo_vaso",
+    "nombre": "A Todo Vaso",
+    "descripcion_corta": "Un jugador se queda inmóvil mientras su equipo le coloca vasos encima sin que caigan.",
+    "categoria_principal": "Humor",
+    "tags": [
+      "humor",
+      "cooperacion",
+      "fiesta",
+      "equilibrio"
+    ],
+    "energia": "media",
+    "actividad_fisica": 1,
+    "dificultad_gm": "facil",
+    "jugadores_min": 4,
+    "jugadores_max": 30,
+    "duracion_minutos": 3,
+    "espacio": "pequeno",
+    "ruido": "medio",
+    "montaje": "rapido",
+    "modo": "cooperativo",
+    "edad": "mixto",
+    "material": [
+      "40 vasos por equipo"
+    ],
+    "preparacion": [
+      "Entregar vasos a cada equipo.",
+      "Elegir a una persona que hará de estatua."
+    ],
+    "como_se_juega": [
+      "Un jugador permanece completamente inmóvil durante 3 minutos.",
+      "El resto del equipo coloca vasos sobre su cuerpo.",
+      "Los vasos no se pueden apilar, pegar ni sujetar con las manos.",
+      "Solo cuentan los vasos apoyados directamente sobre el cuerpo que sigan en pie al final."
+    ],
+    "puntuacion": "Gana el equipo con más vasos colocados al finalizar el tiempo.",
+    "variantes": [
+      "Jugar con relevos cambiando la persona estatua.",
+      "Solo se puede colocar con una mano.",
+      "Bonus por pose ridícula aprobada por el GM."
+    ],
+    "frase_gm": "Vais a convertir a vuestro compañero en una estantería humana. Que Dios le pille confesado.",
+    "recomendados": [
+      "telefono_roto",
+      "pasar_por_el_aro",
+      "gallinita_ciega"
+    ]
+  },
+  {
+    "id": "basquet_vaso",
+    "nombre": "Básquet Vaso",
+    "descripcion_corta": "Los equipos lanzan pelotas de ping-pong a vasos para sumar puntos.",
+    "categoria_principal": "Precisión",
+    "tags": [
+      "precision",
+      "competicion",
+      "lanzamiento"
+    ],
+    "energia": "media",
+    "actividad_fisica": 1,
+    "dificultad_gm": "facil",
+    "jugadores_min": 4,
+    "jugadores_max": 30,
+    "duracion_minutos": 3,
+    "espacio": "medio",
+    "ruido": "medio",
+    "montaje": "rapido",
+    "modo": "competitivo",
+    "edad": "mixto",
+    "material": [
+      "10 vasos por equipo",
+      "Pelotas de ping-pong",
+      "Aro o zona de lanzamiento"
+    ],
+    "preparacion": [
+      "Colocar vasos de colores en la zona de juego.",
+      "Marcar la zona desde la que se lanza.",
+      "Dar pelotas del color correspondiente a cada equipo."
+    ],
+    "como_se_juega": [
+      "Los equipos lanzan pelotas de ping-pong hacia los vasos.",
+      "Cada pelota que entra en un vaso válido suma puntos.",
+      "En modo multiequipo, puede permitirse lanzar pelotas propias o del rival según la variante."
+    ],
+    "puntuacion": "10 puntos por pelota en vaso propio. Variante: vasos azules y amarillos suman; vasos rojos restan.",
+    "variantes": [
+      "Modo sabotaje: puedes lanzar pelotas del rival.",
+      "Modo precisión: solo cuenta si la pelota bota antes.",
+      "Modo final loco: últimos 20 segundos todos lanzan a la vez."
+    ],
+    "frase_gm": "Es beer pong familiar: menos alcohol, más gritos y la misma falta de puntería.",
+    "recomendados": [
+      "apunta_a_la_respuesta",
+      "a_cazar",
+      "tres_en_raya_sacos"
+    ]
+  },
+  {
+    "id": "apalabrados",
+    "nombre": "Apalabrados",
+    "descripcion_corta": "Los equipos forman palabras correctas con letras viniladas antes que sus rivales.",
+    "categoria_principal": "Ingenio",
+    "tags": [
+      "ingenio",
+      "cooperacion",
+      "palabras"
+    ],
+    "energia": "baja",
+    "actividad_fisica": 1,
+    "dificultad_gm": "facil",
+    "jugadores_min": 4,
+    "jugadores_max": 30,
+    "duracion_minutos": 3,
+    "espacio": "pequeno",
+    "ruido": "bajo",
+    "montaje": "rapido",
+    "modo": "cooperativo",
+    "edad": "mixto",
+    "material": [
+      "Letras viniladas",
+      "Definiciones o categorías preparadas"
+    ],
+    "preparacion": [
+      "Preparar letras disponibles.",
+      "Preparar definiciones, pistas o categorías."
+    ],
+    "como_se_juega": [
+      "El GM da una definición, pista o categoría.",
+      "Los equipos deben formar una palabra correcta usando las letras disponibles.",
+      "Cuando un equipo termina, avisa al GM para validar la respuesta."
+    ],
+    "puntuacion": "50 puntos por palabra correcta. Se puede dar bonus al equipo más rápido.",
+    "variantes": [
+      "Palabras relacionadas con música, pelis o Virus Party.",
+      "Contrarreloj de 60 segundos.",
+      "Palabras más largas suman más puntos."
+    ],
+    "frase_gm": "Aquí no gana el que grita más. Bueno... puede que ayude, pero hay que escribir algo con sentido.",
+    "recomendados": [
+      "preguntias",
+      "escape_room_descanso",
+      "al_pie_de_la_letra"
+    ]
+  },
+  {
+    "id": "a_cazar",
+    "nombre": "A Cazar",
+    "descripcion_corta": "Los jugadores lanzan un aro con cuerda para capturar conos de distintos colores.",
+    "categoria_principal": "Precisión",
+    "tags": [
+      "precision",
+      "competicion",
+      "lanzamiento",
+      "riesgo"
+    ],
+    "energia": "media",
+    "actividad_fisica": 2,
+    "dificultad_gm": "media",
+    "jugadores_min": 4,
+    "jugadores_max": 30,
+    "duracion_minutos": 3,
+    "espacio": "medio",
+    "ruido": "medio",
+    "montaje": "medio",
+    "modo": "competitivo",
+    "edad": "mixto",
+    "material": [
+      "Conos chinos verdes, azules, amarillos y rojos",
+      "1 cono grande opcional",
+      "Aro con cuerda"
+    ],
+    "preparacion": [
+      "Distribuir los conos por la zona de juego.",
+      "Marcar el punto de lanzamiento.",
+      "Explicar el valor de cada color antes de empezar."
+    ],
+    "como_se_juega": [
+      "Los jugadores lanzan el aro con cuerda desde el punto marcado.",
+      "El objetivo es rodear y capturar conos.",
+      "Se pueden capturar varios conos en un mismo lanzamiento.",
+      "También puede jugarse por turnos o sin cuerda."
+    ],
+    "puntuacion": "Verde: +10. Azul: +10. Amarillo: +30. Rojo: -10 al equipo rival o penalización según decida el GM.",
+    "variantes": [
+      "Sin cuerda, lanzando solo el aro.",
+      "Conos rojos restan al propio equipo.",
+      "Cono grande como jackpot de +50."
+    ],
+    "frase_gm": "Esto parece una feria. Pero aquí el peluche es humillar al otro equipo.",
+    "recomendados": [
+      "basquet_vaso",
+      "apunta_la_pizza",
+      "tres_en_raya_sacos"
+    ]
+  },
+  {
+    "id": "apunta_a_la_respuesta",
+    "nombre": "Apunta a la Respuesta",
+    "descripcion_corta": "Trivial físico donde cada respuesta corresponde a un cubo y se responde lanzando pelotas.",
+    "categoria_principal": "Precisión",
+    "tags": [
+      "precision",
+      "ingenio",
+      "competicion",
+      "trivial"
+    ],
+    "energia": "media",
+    "actividad_fisica": 2,
+    "dificultad_gm": "media",
+    "jugadores_min": 4,
+    "jugadores_max": 30,
+    "duracion_minutos": 3,
+    "espacio": "medio",
+    "ruido": "medio",
+    "montaje": "medio",
+    "modo": "competitivo",
+    "edad": "mixto",
+    "material": [
+      "Pelotas de ping-pong",
+      "4 cubos de colores",
+      "Preguntas preparadas"
+    ],
+    "preparacion": [
+      "Preparar preguntas con 4 opciones.",
+      "Asignar cada opción a un cubo.",
+      "Preparar pelotas por equipo."
+    ],
+    "como_se_juega": [
+      "El GM formula una pregunta y muestra 4 respuestas.",
+      "Cada equipo recoge solo las pelotas de su color.",
+      "Durante 30 segundos lanzan al cubo que creen correcto.",
+      "Al terminar, se cuentan las pelotas acertadas."
+    ],
+    "puntuacion": "Opción A: 10 puntos por pelota correcta. Opción B: 50 puntos al equipo ganador de cada ronda.",
+    "variantes": [
+      "3 o 4 rondas.",
+      "Modo saboteador: se pueden lanzar pelotas del rival.",
+      "Modo todo o nada: solo puntúa el equipo con más aciertos."
+    ],
+    "frase_gm": "Esto es como un examen... pero si suspendes al menos puedes echarle la culpa a tu puntería.",
+    "recomendados": [
+      "basquet_vaso",
+      "preguntias",
+      "a_cazar"
+    ]
+  },
+  {
+    "id": "el_peso_justo_objetos",
+    "nombre": "El Peso Justo - Objetos",
+    "descripcion_corta": "Los equipos deben acercarse a un peso objetivo usando objetos facilitados por el GM, sin pasarse.",
+    "categoria_principal": "Ingenio",
+    "tags": [
+      "ingenio",
+      "humor",
+      "estimacion"
+    ],
+    "energia": "baja",
+    "actividad_fisica": 1,
+    "dificultad_gm": "facil",
+    "jugadores_min": 4,
+    "jugadores_max": 30,
+    "duracion_minutos": 3,
+    "espacio": "pequeno",
+    "ruido": "bajo",
+    "montaje": "medio",
+    "modo": "competitivo",
+    "edad": "mixto",
+    "material": [
+      "Báscula",
+      "Objetos variados"
+    ],
+    "preparacion": [
+      "Preparar una selección de objetos con pesos variados.",
+      "Tener la báscula lista y visible para la comprobación final.",
+      "Definir 5 pesos objetivo."
+    ],
+    "como_se_juega": [
+      "El GM dice un peso objetivo.",
+      "Cada equipo elige objetos para acercarse lo máximo posible sin pasarse.",
+      "Tienen 30 segundos para decidir.",
+      "El GM pesa la propuesta de cada equipo."
+    ],
+    "puntuacion": "Equipo más cercano sin pasarse: 50 puntos. Si clavan el peso exacto: 100 puntos.",
+    "variantes": [
+      "5 rondas.",
+      "Objetos misteriosos dentro de bolsas.",
+      "Penalización si se pasan del peso."
+    ],
+    "frase_gm": "Hoy vais a descubrir que vuestra intuición pesa menos que vuestras excusas.",
+    "recomendados": [
+      "el_peso_justo_jugadores",
+      "apalabrados",
+      "preguntias"
+    ]
+  },
+  {
+    "id": "el_peso_justo_jugadores",
+    "nombre": "El Peso Justo - Objetos Personales",
+    "descripcion_corta": "Los equipos deben acercarse al peso objetivo usando objetos que tengan encima.",
+    "categoria_principal": "Ingenio",
+    "tags": [
+      "ingenio",
+      "humor",
+      "estimacion"
+    ],
+    "energia": "baja",
+    "actividad_fisica": 1,
+    "dificultad_gm": "facil",
+    "jugadores_min": 4,
+    "jugadores_max": 30,
+    "duracion_minutos": 3,
+    "espacio": "pequeno",
+    "ruido": "bajo",
+    "montaje": "rapido",
+    "modo": "competitivo",
+    "edad": "mixto",
+    "material": [
+      "Báscula"
+    ],
+    "preparacion": [
+      "Tener la báscula preparada.",
+      "Definir 3 pesos objetivo."
+    ],
+    "como_se_juega": [
+      "El GM dice un peso objetivo.",
+      "Los participantes usan objetos que tengan a mano o encima.",
+      "El objetivo es acercarse sin pasarse.",
+      "Se pesan los objetos al final de cada ronda."
+    ],
+    "puntuacion": "Equipo más cercano sin pasarse: 50 puntos. Peso exacto: 100 puntos.",
+    "variantes": [
+      "Solo objetos de bolsillo.",
+      "Solo objetos de un jugador elegido.",
+      "Ronda final con peso secreto hasta el final."
+    ],
+    "frase_gm": "Sacad lo que llevéis encima. Sí, ahora todos vais a descubrir quién carga media casa en los bolsillos.",
+    "recomendados": [
+      "el_peso_justo_objetos",
+      "preguntias",
+      "apalabrados"
+    ]
+  },
+  {
+    "id": "al_pie_de_la_letra",
+    "nombre": "Al Pie de la Letra",
+    "descripcion_corta": "Suena una canción, se corta, y los equipos deben escribir cómo continúa la letra.",
+    "categoria_principal": "Música",
+    "tags": [
+      "musica",
+      "ingenio",
+      "fiesta",
+      "canciones"
+    ],
+    "energia": "media",
+    "actividad_fisica": 1,
+    "dificultad_gm": "media",
+    "jugadores_min": 4,
+    "jugadores_max": 30,
+    "duracion_minutos": 2,
+    "espacio": "pequeno",
+    "ruido": "alto",
+    "montaje": "medio",
+    "modo": "competitivo",
+    "edad": "adultos",
+    "material": [
+      "Playlist preparada",
+      "PC o tablet",
+      "Papel o pizarra para respuestas"
+    ],
+    "preparacion": [
+      "Preparar canciones reconocibles para el grupo.",
+      "Tener control de reproducción desde PC o tablet.",
+      "Preparar cómo recoger respuestas."
+    ],
+    "como_se_juega": [
+      "Suena una canción durante unos segundos.",
+      "El GM detiene la música en un punto clave.",
+      "Los equipos escriben cómo continúa la letra.",
+      "El GM valida la respuesta."
+    ],
+    "puntuacion": "Respuesta correcta: 50 puntos. Bonus opcional por cantar, bailar o montar fiesta durante la canción.",
+    "variantes": [
+      "Ronda de canciones españolas.",
+      "Ronda de openings/anime/fiesta según grupo.",
+      "Bonus de interpretación."
+    ],
+    "frase_gm": "Si os la sabéis en la ducha, este es vuestro momento de demostrarlo delante de todo el mundo.",
+    "recomendados": [
+      "music_royale",
+      "apalabrados",
+      "preguntias"
+    ]
+  },
+  {
+    "id": "music_royale",
+    "nombre": "Music Royale",
+    "descripcion_corta": "Los jugadores avanzan con aros mientras suena la música y se congelan cuando se detiene.",
+    "categoria_principal": "Movimiento",
+    "tags": [
+      "musica",
+      "movimiento",
+      "caos",
+      "competicion"
+    ],
+    "energia": "alta",
+    "actividad_fisica": 3,
+    "dificultad_gm": "media",
+    "jugadores_min": 6,
+    "jugadores_max": 30,
+    "duracion_minutos": 5,
+    "espacio": "grande",
+    "ruido": "alto",
+    "montaje": "medio",
+    "modo": "competitivo",
+    "edad": "mixto",
+    "material": [
+      "Aros de colores",
+      "Conos de colores",
+      "Música preparada"
+    ],
+    "preparacion": [
+      "Colocar los jugadores en el centro.",
+      "Situar los aros a un lado y los conos al otro.",
+      "Separar zonas unos 20 metros si el espacio lo permite."
+    ],
+    "como_se_juega": [
+      "Cuando suena el estilo musical indicado, los jugadores pueden avanzar llevando un aro.",
+      "Cuando la música se detiene, deben congelarse como en pica pared.",
+      "Solo pueden llevar un aro cada vez.",
+      "No pueden lanzar el aro a distancia.",
+      "Deben colocarlo dentro del cono del mismo color."
+    ],
+    "puntuacion": "Cada aro colocado correctamente suma puntos. También puede ganar quien tenga más aros bien colocados.",
+    "variantes": [
+      "Ronda 1: correr normal.",
+      "Ronda 2: correr de espaldas.",
+      "Ronda 3: correr agarrados de la mano con otra persona."
+    ],
+    "frase_gm": "La música manda. Cuando suena, corréis. Cuando para, os congeláis. Si os movéis... os he visto. Y si no os he visto, me lo invento.",
+    "recomendados": [
+      "splaton",
+      "cruzar_el_rio",
+      "ten_pelotas"
+    ]
+  },
+  {
+    "id": "gallinita_ciega",
+    "nombre": "La Gallinita Ciega",
+    "descripcion_corta": "Un jugador con los ojos tapados busca conos guiado por sus compañeros.",
+    "categoria_principal": "Cooperación",
+    "tags": [
+      "cooperacion",
+      "humor",
+      "movimiento",
+      "comunicacion"
+    ],
+    "energia": "media",
+    "actividad_fisica": 2,
+    "dificultad_gm": "facil",
+    "jugadores_min": 4,
+    "jugadores_max": 30,
+    "duracion_minutos": 2,
+    "espacio": "medio",
+    "ruido": "alto",
+    "montaje": "rapido",
+    "modo": "cooperativo",
+    "edad": "mixto",
+    "material": [
+      "Conos de colores",
+      "Antifaces"
+    ],
+    "preparacion": [
+      "Distribuir conos de colores por el suelo.",
+      "Asignar color a cada equipo.",
+      "Elegir un jugador por equipo para ir con los ojos tapados."
+    ],
+    "como_se_juega": [
+      "El jugador con antifaz debe encontrar conos de su equipo.",
+      "Sus compañeros solo pueden guiarle con la voz.",
+      "Si coge un cono rival, los puntos van para el rival."
+    ],
+    "puntuacion": "Gana el equipo con más conos correctos al final. Cono rival: puntos para el equipo rival.",
+    "variantes": [
+      "Todos gritan a la vez.",
+      "Solo una persona puede dar instrucciones.",
+      "Conos trampa con penalización."
+    ],
+    "frase_gm": "Ahora vais a depositar vuestra vida en manos de vuestros compañeros. Y sinceramente... eso me preocupa bastante.",
+    "recomendados": [
+      "telefono_roto",
+      "a_todo_vaso",
+      "pasar_por_el_aro"
+    ]
+  },
+  {
+    "id": "preguntias",
+    "nombre": "PreguntIAs / Atrapa un Mojón",
+    "descripcion_corta": "Los equipos apuestan puntos e intentan adivinar respuestas generadas por la IA.",
+    "categoria_principal": "Ingenio",
+    "tags": [
+      "ingenio",
+      "riesgo",
+      "fiesta",
+      "apuestas",
+      "ia"
+    ],
+    "energia": "baja",
+    "actividad_fisica": 1,
+    "dificultad_gm": "media",
+    "jugadores_min": 4,
+    "jugadores_max": 30,
+    "duracion_minutos": 5,
+    "espacio": "pequeno",
+    "ruido": "medio",
+    "montaje": "medio",
+    "modo": "competitivo",
+    "edad": "adultos",
+    "material": [
+      "4 preguntas preparadas con IA",
+      "Marcador de puntos"
+    ],
+    "preparacion": [
+      "Preparar 4 preguntas y sus respuestas generadas por IA.",
+      "Preparar un sistema visible para anotar apuestas y puntos."
+    ],
+    "como_se_juega": [
+      "Cada equipo decide cuántos puntos apuesta en cada pregunta.",
+      "El GM lee la pregunta.",
+      "Los equipos intentan adivinar cuál fue la respuesta de la IA.",
+      "Se revelan respuestas y se ajustan puntos."
+    ],
+    "puntuacion": "Si aciertan, duplican los puntos apostados. Si fallan, pierden la apuesta.",
+    "variantes": [
+      "Preguntas absurdas.",
+      "Preguntas sobre el propio grupo.",
+      "Apuesta mínima obligatoria."
+    ],
+    "frase_gm": "No vais a luchar contra otra persona. Vais a luchar contra la mente más rara del planeta: una IA respondiendo tonterías.",
+    "recomendados": [
+      "apalabrados",
+      "al_pie_de_la_letra",
+      "apunta_a_la_respuesta"
+    ]
+  },
+  {
+    "id": "ten_pelotas",
+    "nombre": "Ten Pelotas",
+    "descripcion_corta": "Los equipos crean una estrategia con aros para transportar o robar pelotas entre bases.",
+    "categoria_principal": "Caos",
+    "tags": [
+      "sabotaje",
+      "competicion",
+      "caos",
+      "movimiento",
+      "estrategia"
+    ],
+    "energia": "alta",
+    "actividad_fisica": 3,
+    "dificultad_gm": "media",
+    "jugadores_min": 6,
+    "jugadores_max": 30,
+    "duracion_minutos": 4,
+    "espacio": "grande",
+    "ruido": "alto",
+    "montaje": "medio",
+    "modo": "mixto",
+    "edad": "mixto",
+    "material": [
+      "Una caja por equipo",
+      "Caja general de pelotas de ping-pong",
+      "1 aro por jugador"
+    ],
+    "preparacion": [
+      "Colocar una caja base para cada equipo.",
+      "Colocar una caja central con pelotas.",
+      "Entregar un aro a cada jugador.",
+      "Prohibir colocar aros pegados a la base rival."
+    ],
+    "como_se_juega": [
+      "Los equipos tienen 1 o 2 minutos para crear estrategia y colocar sus aros.",
+      "El objetivo es mover pelotas desde un punto X a un punto Y.",
+      "Las pelotas pueden robarse.",
+      "Los jugadores deben respetar la posición de los aros y las normas marcadas por el GM."
+    ],
+    "puntuacion": "Gana el equipo con más pelotas en su caja al finalizar el tiempo.",
+    "variantes": [
+      "Sin robo para grupos tranquilos.",
+      "Robo permitido solo en la segunda mitad.",
+      "Pelotas especiales con doble puntuación."
+    ],
+    "frase_gm": "Tenéis pelotas, aros y cero garantías de que esto no acabe en caos absoluto.",
+    "recomendados": [
+      "splaton",
+      "mis_conos",
+      "music_royale"
+    ]
+  },
+  {
+    "id": "mis_conos",
+    "nombre": "Mis Conos",
+    "descripcion_corta": "Tres equipos compiten por conseguir colocar tres conos en su base antes que los demás.",
+    "categoria_principal": "Competición",
+    "tags": [
+      "competicion",
+      "movimiento",
+      "estrategia"
+    ],
+    "energia": "alta",
+    "actividad_fisica": 3,
+    "dificultad_gm": "facil",
+    "jugadores_min": 3,
+    "jugadores_max": 18,
+    "duracion_minutos": 2,
+    "espacio": "medio",
+    "ruido": "alto",
+    "montaje": "rapido",
+    "modo": "competitivo",
+    "edad": "mixto",
+    "material": [
+      "7 conos",
+      "3 bases"
+    ],
+    "preparacion": [
+      "Colocar 3 bases separadas.",
+      "Poner 7 conos en el centro.",
+      "Idealmente jugar con equipos de 3."
+    ],
+    "como_se_juega": [
+      "Un jugador de cada equipo compite por llevar conos a su base.",
+      "El objetivo es tener 3 conos en la base propia.",
+      "Se puede permitir robar conos de bases rivales según la variante."
+    ],
+    "puntuacion": "Gana el primer equipo que consiga 3 conos en su base.",
+    "variantes": [
+      "Con robo entre bases.",
+      "Sin robo: solo conos del centro.",
+      "Rotación de jugadores por ronda."
+    ],
+    "frase_gm": "Hay siete conos y demasiada ambición. Haced las cuentas.",
+    "recomendados": [
+      "splaton",
+      "ten_pelotas",
+      "tres_en_raya_relevos"
+    ]
+  },
+  {
+    "id": "a_pulso",
+    "nombre": "A Pulso",
+    "descripcion_corta": "Los jugadores transportan pelotas de ping-pong sobre una bandeja sin que caigan.",
+    "categoria_principal": "Precisión",
+    "tags": [
+      "precision",
+      "cooperacion",
+      "equilibrio",
+      "movimiento"
+    ],
+    "energia": "media",
+    "actividad_fisica": 2,
+    "dificultad_gm": "facil",
+    "jugadores_min": 4,
+    "jugadores_max": 30,
+    "duracion_minutos": 3,
+    "espacio": "medio",
+    "ruido": "medio",
+    "montaje": "rapido",
+    "modo": "competitivo",
+    "edad": "mixto",
+    "material": [
+      "Bandejas",
+      "Pelotas de ping-pong",
+      "Caja de destino"
+    ],
+    "preparacion": [
+      "Marcar punto A y punto B.",
+      "Preparar bandejas y pelotas.",
+      "Colocar una caja de destino por equipo."
+    ],
+    "como_se_juega": [
+      "Los jugadores transportan pelotas encima de una bandeja desde el punto A al punto B.",
+      "Si una pelota cae, el GM decide si vuelve al inicio o queda eliminada.",
+      "El equipo debe intentar entregar el máximo número posible."
+    ],
+    "puntuacion": "Gana quien tenga más pelotas en la caja al finalizar el tiempo.",
+    "variantes": [
+      "Bandeja a una mano.",
+      "Recorrido con obstáculos.",
+      "Relevos por parejas."
+    ],
+    "frase_gm": "Necesito precisión, calma y pulso firme. Así que probablemente vais fatal.",
+    "recomendados": [
+      "basquet_vaso",
+      "a_cazar",
+      "cruzar_el_rio"
+    ]
+  },
+  {
+    "id": "me_cambio_de_aro",
+    "nombre": "Me Cambio de Aro",
+    "descripcion_corta": "Los jugadores deben recolocar aros mientras otros sujetan una cuerda, en paralelo o en cruz.",
+    "categoria_principal": "Cooperación",
+    "tags": [
+      "cooperacion",
+      "movimiento",
+      "coordinacion"
+    ],
+    "energia": "media",
+    "actividad_fisica": 2,
+    "dificultad_gm": "media",
+    "jugadores_min": 4,
+    "jugadores_max": 20,
+    "duracion_minutos": 2,
+    "espacio": "medio",
+    "ruido": "medio",
+    "montaje": "medio",
+    "modo": "cooperativo",
+    "edad": "mixto",
+    "material": [
+      "Cuerdas",
+      "Aros"
+    ],
+    "preparacion": [
+      "Colocar aros en la zona de juego.",
+      "Dos jugadores sujetan los extremos de una cuerda.",
+      "Definir si se jugará en paralelo o en cruz."
+    ],
+    "como_se_juega": [
+      "Un jugador se coloca dentro de varios aros.",
+      "Dos jugadores sujetan una cuerda por los extremos.",
+      "Otro jugador debe cambiar los aros de sitio siguiendo la estructura marcada.",
+      "El equipo debe completar el cambio antes que el rival."
+    ],
+    "puntuacion": "Gana el primer equipo que complete correctamente el cambio de aros.",
+    "variantes": [
+      "Formato paralelo.",
+      "Formato en cruz.",
+      "Penalización si se suelta la cuerda o se pisa fuera."
+    ],
+    "frase_gm": "Es coordinación de equipo. O, siendo realistas, una coreografía improvisada del desastre.",
+    "recomendados": [
+      "cruzar_el_rio",
+      "pasar_por_el_aro",
+      "gallinita_ciega"
+    ]
+  },
+  {
+    "id": "apunta_la_pizza",
+    "nombre": "Apunta la Pizza",
+    "descripcion_corta": "Reto de precisión donde hay que introducir bolígrafos en botellas desde la distancia marcada.",
+    "categoria_principal": "Precisión",
+    "tags": [
+      "precision",
+      "humor",
+      "lanzamiento"
+    ],
+    "energia": "media",
+    "actividad_fisica": 1,
+    "dificultad_gm": "facil",
+    "jugadores_min": 4,
+    "jugadores_max": 30,
+    "duracion_minutos": 2,
+    "espacio": "pequeno",
+    "ruido": "medio",
+    "montaje": "medio",
+    "modo": "competitivo",
+    "edad": "mixto",
+    "material": [
+      "3 botellas",
+      "3 bolígrafos",
+      "Soporte o estructura tipo Torre de Pizza si aplica"
+    ],
+    "preparacion": [
+      "Preparar 3 botellas estables.",
+      "Preparar 3 bolígrafos por equipo o por ronda.",
+      "Marcar la distancia de lanzamiento."
+    ],
+    "como_se_juega": [
+      "Los jugadores intentan introducir los bolígrafos dentro de las botellas.",
+      "Se juega por turnos o todos los equipos a la vez si el espacio lo permite.",
+      "El reto termina cuando un equipo completa las 3 botellas o se agota el tiempo."
+    ],
+    "puntuacion": "Gana el primer equipo que consiga meter los 3 bolígrafos. Variante: 10 puntos por bolígrafo acertado.",
+    "variantes": [
+      "Mayor distancia para adultos.",
+      "Botellas con puntuaciones diferentes.",
+      "Solo cuenta si el bolígrafo queda dentro sin rebotar fuera."
+    ],
+    "frase_gm": "¿Meter tres bolis en tres botellas? Fácil. Decís eso ahora...",
+    "recomendados": [
+      "basquet_vaso",
+      "a_cazar",
+      "tres_en_raya_sacos"
+    ]
+  }
+]

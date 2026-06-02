@@ -1,0 +1,100 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#187c7a" />
+    <meta name="mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-title" content="Virus Party GM" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="default" />
+    <title>Virus Party GM</title>
+    <link rel="manifest" href="manifest.webmanifest" />
+    <link rel="icon" href="icons/icon-192.png" />
+    <link rel="apple-touch-icon" href="icons/icon-192.png" />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <main class="app-shell">
+      <section class="topbar" aria-label="Panel principal">
+        <div>
+          <p class="eyebrow">Virus Party</p>
+          <h1>Buscador de sesiones</h1>
+        </div>
+        <div class="top-actions">
+          <button id="installApp" class="install-button" type="button" hidden>Añadir a inicio</button>
+          <p id="installHint" class="install-hint" hidden>En iPhone: compartir y Añadir a pantalla de inicio.</p>
+          <div class="session-summary" aria-live="polite">
+            <span id="selectedCount">0</span>
+            <small>juegos en sesión</small>
+          </div>
+        </div>
+      </section>
+
+      <section class="workspace">
+        <aside class="filters-panel" aria-label="Filtros">
+          <label class="search-box">
+            <span>Buscar</span>
+            <input id="searchInput" type="search" placeholder="Nombre, tag, duración..." autocomplete="off" />
+          </label>
+
+          <div class="filter-group">
+            <h2>Tags</h2>
+            <div id="tagFilters" class="chip-grid"></div>
+          </div>
+
+          <div class="filter-group">
+            <h2>Energía</h2>
+            <div class="segmented" id="paceFilters" role="group" aria-label="Filtro de energía">
+              <button type="button" class="active" data-pace="all">Todas</button>
+              <button type="button" data-pace="baja">Baja</button>
+              <button type="button" data-pace="media">Media</button>
+              <button type="button" data-pace="alta">Alta</button>
+            </div>
+          </div>
+
+          <form id="presetForm" class="preset-form">
+            <label>
+              <span>Nombre del preset</span>
+              <input id="presetName" type="text" placeholder="Ej. Sesión corta viernes" />
+            </label>
+            <button type="submit">Guardar preset</button>
+          </form>
+
+          <div class="filter-group">
+            <h2>Presets</h2>
+            <div id="presetList" class="preset-list"></div>
+          </div>
+        </aside>
+
+        <section class="games-panel">
+          <div class="panel-heading">
+            <div>
+              <h2>Minijuegos</h2>
+              <p id="resultCount">0 resultados</p>
+            </div>
+            <button id="clearSession" class="ghost-button" type="button">Vaciar sesión</button>
+          </div>
+          <div id="gamesGrid" class="games-grid"></div>
+        </section>
+
+        <aside class="session-panel" aria-label="Sesión actual">
+          <div class="panel-heading compact">
+            <div>
+              <h2>Sesión</h2>
+              <p id="sessionMeta">Añade juegos para empezar</p>
+            </div>
+          </div>
+          <ol id="sessionList" class="session-list"></ol>
+
+          <div class="recommendations">
+            <h2>Siguientes recomendados</h2>
+            <div id="recommendationList"></div>
+          </div>
+        </aside>
+      </section>
+    </main>
+
+    <script src="app.js"></script>
+  </body>
+</html>
